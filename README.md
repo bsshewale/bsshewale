@@ -55,7 +55,7 @@ I’m driven to become a **leading Data Scientist** and eventually build a **sta
 ### 🌐 Let's Connect
 📧 **Email:** bsshewale1630@gmail.com  
 💼 **LinkedIn:** [Connect](https://www.linkedin.com/in/bharatshewale/)  
-📊 **Portfolio (Coming Soon):** [Welcome](https://github.com/bsshewale)  
+📊 **Portfolio (Coming Soon):** [Welcome](https://bsshewale.github.io/)  
 
 ---
 
