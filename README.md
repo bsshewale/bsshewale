@@ -1,62 +1,114 @@
 
 
-# 👋 Hi, I'm Bharat Shewale  
+---
 
-🎯 **Data Analyst | Data Scientist | AI Enthusiast | MS in Data Science & AI**  
+# 👋 Hi, I’m **Bharat Shewale**
 
-I’m a passionate data professional who loves transforming raw data into meaningful insights and actionable strategies. With hands-on experience in **machine learning, NLP, EDA, and data visualization**, I specialize in finding patterns that drive business decisions and improve efficiency.  
+🎯 **Data Scientist | ML Engineer | MLOps Enthusiast | MS in Data Science & AI**
+
+I am a results-driven data professional who transforms raw data into **scalable models, actionable insights, and business value**. My work spans **end-to-end analytics pipelines**—from data ingestion and EDA to model deployment and monitoring—bridging the gap between **business problems and AI-powered solutions**.
 
 ---
 
-### 🚀 About Me
-- 🎓 **MS in Data Science and AI** (Woolf University, California, SF)  
-- 🧑‍🔬 3+ years of experience across **Data Analytics, Machine Learning, and Business Optimization**  
-- 📊 Transitioned from **Logistics Coordination (Mahindra Logistics)** to **Data Science**, leading data-driven process improvements  
-- 💼 Improved operational efficiency by **20%** and uncovered **₹9.44M in revenue drivers** through analytical insights  
-- 🔬 Worked on **6+ real-world projects** in ML and EDA including:
-  - 🏨 Hotel Booking Data Analysis  
-  - 🛒 Online Retail Customer Segmentation  
-  - 😷 Coronavirus Tweet Sentiment Analysis  
-  - 📦 Inventory Optimization (Mahindra Logistics)
+## 🚀 About Me
+
+* 🎓 **MS in Data Science & Artificial Intelligence**
+  *Woolf University, California (San Francisco)*
+* 💼 **3+ years of professional experience** across:
+
+  * Data Analytics
+  * Machine Learning
+  * Business & Process Optimization
+* 🔄 Transitioned from **Logistics & Operations (Mahindra Logistics)** to **Data Science**, applying analytics to real operational challenges
+* 📈 Delivered measurable impact:
+
+  * **20% improvement** in operational efficiency
+  * Identified **₹9.44M+ revenue opportunities** using data-driven insights
+* 🧠 Strong exposure to **real-world, business-centric datasets** rather than toy problems
 
 ---
 
-### 🧰 Tech Stack
-#### 🐍 **Programming & Analytics**
-- Python (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
-- SQL (MySQL, PostgreSQL)
-- Power BI | Tableau | Excel  
+## 🔬 Projects & Practical Experience
 
-#### 🤖 **Machine Learning & AI**
-- Supervised & Unsupervised ML  
-- NLP (Text Preprocessing, Sentiment Analysis)
-- Feature Engineering | Model Evaluation  
+Hands-on experience across **EDA, ML modeling, deployment, and automation**:
 
-#### 🧱 **Big Data & Tools**
-- Hadoop (in progress)
-- Jupyter Notebook | Google Colab | VS Code | GitHub  
+* ✈️ **Travel Price Prediction (MLOps-enabled)**
+  ML pipelines with Airflow, MLflow, Docker, Kubernetes, and CI/CD
+* 🏨 **Hotel Booking Data Analysis**
+  Demand patterns, cancellations, and customer behavior
+* 🛒 **Online Retail Customer Segmentation**
+  RFM analysis and clustering for targeted marketing
+* 😷 **Coronavirus Tweet Sentiment Analysis**
+  NLP preprocessing, sentiment modeling, and insights
+* 📦 **Inventory Optimization – Mahindra Logistics**
+  Cost reduction and storage optimization using analytics
 
----
-
-### 📈 Highlighted Skills
-- Data Cleaning & Transformation  
-- Exploratory Data Analysis (EDA)  
-- Predictive Modeling & Forecasting  
-- KPI Dashboards & Business Insights  
-- Statistical Analysis | Applied Calculus for ML  
+> All projects emphasize **problem framing, feature engineering, model evaluation, and business interpretation**.
 
 ---
 
-### 💡 Career Vision
-I’m driven to become a **leading Data Scientist** and eventually build a **startup** leveraging AI for impactful solutions. I believe in data as the foundation of every intelligent decision — and I’m on a lifelong mission to explore that intersection of **AI, analytics, and business growth.**
+## 🧰 Tech Stack
+
+### 🐍 Programming & Analytics
+
+* **Python:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+* **SQL:** MySQL, PostgreSQL
+* **Visualization:** Power BI, Tableau, Excel
+
+### 🤖 Machine Learning & AI
+
+* Supervised & Unsupervised Learning
+* Regression, Classification, Clustering
+* NLP (Text Preprocessing, Sentiment Analysis)
+* Feature Engineering & Model Evaluation
+
+### ⚙️ MLOps & Engineering
+
+* MLflow (Model Tracking & Versioning)
+* Apache Airflow (Workflow Orchestration)
+* Docker & Kubernetes (Model Deployment)
+* CI/CD with Jenkins
+* Git & GitHub (Version Control)
+
+### 🧱 Tools & Platforms
+
+* Jupyter Notebook | Google Colab
+* VS Code | Linux (WSL)
+* Hadoop *(learning in progress)*
 
 ---
 
-### 🌐 Let's Connect
-📧 **Email:** bsshewale1630@gmail.com  
-💼 **LinkedIn:** [Connect](https://www.linkedin.com/in/bharatshewale/)  
-📊 **Portfolio:** [Welcome](https://bsshewale.github.io/)  
+## 📈 Core Strengths
+
+* Data Cleaning, Transformation & Validation
+* Exploratory Data Analysis (EDA)
+* Predictive Modeling & Forecasting
+* KPI Dashboards & Decision-Support Analytics
+* Statistical Analysis & Applied Calculus for ML
+* Translating **business questions into ML solutions**
 
 ---
 
-⭐ *“Turning data into decisions, and insights into impact.”*  
+## 💡 Career Vision
+
+My goal is to grow as a **senior-level Data Scientist** working on **production-grade ML systems**, and eventually build a **startup** that applies AI to solve real-world, high-impact problems.
+
+I strongly believe:
+
+> **“Data is valuable only when it drives decisions — and models matter only when they are deployable.”**
+
+---
+
+## 🌐 Let’s Connect
+
+📧 **Email:** [bsshewale1630@gmail.com](mailto:bsshewale1630@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/bharatshewale](https://www.linkedin.com/in/bharatshewale/)
+🌍 **Portfolio:** [bsshewale.github.io](https://bsshewale.github.io/)
+
+---
+
+⭐ *Turning data into decisions. Scaling insights into impact.*
+
+---
+
+
