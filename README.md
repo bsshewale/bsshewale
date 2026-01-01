@@ -14,36 +14,6 @@ I am a results-driven data professional who transforms raw data into **scalable 
 
 * 🎓 **MS in Data Science & Artificial Intelligence**
   *Woolf University, California (San Francisco)*
-* 💼 **3+ years of professional experience** across:
-
-  * Data Analytics
-  * Machine Learning
-  * Business & Process Optimization
-* 🔄 Transitioned from **Logistics & Operations (Mahindra Logistics)** to **Data Science**, applying analytics to real operational challenges
-* 📈 Delivered measurable impact:
-
-  * **20% improvement** in operational efficiency
-  * Identified **₹9.44M+ revenue opportunities** using data-driven insights
-* 🧠 Strong exposure to **real-world, business-centric datasets** rather than toy problems
-
----
-
-## 🔬 Projects & Practical Experience
-
-Hands-on experience across **EDA, ML modeling, deployment, and automation**:
-
-* ✈️ **Travel Price Prediction (MLOps-enabled)**
-  ML pipelines with Airflow, MLflow, Docker, Kubernetes, and CI/CD
-* 🏨 **Hotel Booking Data Analysis**
-  Demand patterns, cancellations, and customer behavior
-* 🛒 **Online Retail Customer Segmentation**
-  RFM analysis and clustering for targeted marketing
-* 😷 **Coronavirus Tweet Sentiment Analysis**
-  NLP preprocessing, sentiment modeling, and insights
-* 📦 **Inventory Optimization – Mahindra Logistics**
-  Cost reduction and storage optimization using analytics
-
-> All projects emphasize **problem framing, feature engineering, model evaluation, and business interpretation**.
 
 ---
 
